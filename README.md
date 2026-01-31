@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🎯 Muhammad Khuzaima
+**BS Computer Science | Full-Stack & AI Developer | MERN Stack Enthusiast**  
 
-<!--
-**MuhammadKhuzaimaIqbal/MuhammadKhuzaimaIqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Muhammad Khuzaima, a passionate software developer who loves building web apps, AI solutions, and games. I’m currently in my **8th semester at ITU Lahore**, focused on enhancing my skills in full-stack development and AI projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Full-stack developer with hands-on experience in **MERN Stack**, **ASP.NET**, **Firebase**, and **MySQL/MongoDB**  
+- AI & image processing projects using **Python**, **OpenCV**, and **C++**  
+- Strong problem-solving, teamwork, and project management skills  
+- Always learning and exploring new technologies  
+
+---
+
+## 🔧 Tech Stack
+**Frontend:** React, HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express.js, ASP.NET Core, C#  
+**Databases:** MongoDB, MySQL, Firebase  
+**Languages:** Python, C++, C#, JavaScript  
+**Tools & Others:** Git, Docker, VS Code, Unity  
+
+---
+
+## 📂 Projects
+- **[Airbnb Clone (MERN)](link-to-repo)** – Full-featured rental platform with authentication & booking system  
+- **[Time-Aware Image Classifier (Python & OpenCV)](link-to-repo)** – AI project for image classification  
+- **[Chess Game (C++)](link-to-repo)** – Console-based chess game  
+- **[Flight Simulator VR (Unity & C#)](link-to-repo)** – VR game development  
+
+---
+
+## 📫 Contact Me
+- Email: khuzaimaiqbal91@gmail.com  
+- LinkedIn: [linkedin.com/in/muhammad-khuzaima-iqbal](https://linkedin.com/in/muhammad-khuzaima-iqbal)  
+- GitHub: [github.com/KhuzaimaIqbal123](https://github.com/KhuzaimaIqbal123)
