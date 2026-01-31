@@ -1,3 +1,16 @@
+<p align="center">
+  <img width="150" src="https://your-image-link.com/profile.jpg" alt="Muhammad Khuzaima">
+</p>
+
+<h1 align="center">Muhammad Khuzaima</h1>
+<h3 align="center">Full Stack Developer (MERN Stack) | AI & Game Dev Enthusiast</h3>
+<p align="center">"Building Scalable and Innovative Web Applications with Passion"</p>
+
+<p align="center">
+  <b>Email:</b> khuzaimaiqbal91@gmail.com &nbsp;|&nbsp;
+  <b>LinkedIn:</b> <a href="https://linkedin.com/in/muhammad-khuzaima-iqbal">Profile</a> &nbsp;|&nbsp;
+</p>
+
 # Muhammad Khuzaima
 **BS Computer Science | Full-Stack & AI Developer | MERN Stack Enthusiast | Software Engineer**  
 
