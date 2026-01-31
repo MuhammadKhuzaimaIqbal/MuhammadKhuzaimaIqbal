@@ -1,11 +1,11 @@
-# 🎯 Muhammad Khuzaima
+# Muhammad Khuzaima
 **BS Computer Science | Full-Stack & AI Developer | MERN Stack Enthusiast**  
 
 Hi there! I'm Muhammad Khuzaima, a passionate software developer who loves building web apps, AI solutions, and games. I’m currently in my **8th semester at ITU Lahore**, focused on enhancing my skills in full-stack development and AI projects.  
 
 ---
 
-## 👨‍💻 About Me
+## 👨🏻‍🎓 About Me
 - Full-stack developer with hands-on experience in **MERN Stack**, **ASP.NET**, **Firebase**, and **MySQL/MongoDB**  
 - AI & image processing projects using **Python**, **OpenCV**, and **C++**  
 - Strong problem-solving, teamwork, and project management skills  
@@ -23,14 +23,14 @@ Hi there! I'm Muhammad Khuzaima, a passionate software developer who loves build
 ---
 
 ## 📂 Projects
-- **[Airbnb Clone (MERN)](link-to-repo)** – Full-featured rental platform with authentication & booking system  
-- **[Time-Aware Image Classifier (Python & OpenCV)](link-to-repo)** – AI project for image classification  
-- **[Chess Game (C++)](link-to-repo)** – Console-based chess game  
-- **[Flight Simulator VR (Unity & C#)](link-to-repo)** – VR game development  
+- **[Airbnb Clone (MERN)](https://github.com/MuhammadKhuzaimaIqbal/Dockerize_Airbnb_MERN)** – Full-featured rental platform with authentication & booking system  
+- **[Time-Aware Image Classifier (Python & OpenCV)](https://github.com/MuhammadKhuzaimaIqbal/Day_vs_Night_Classifier)** – AI project for image classification  
+- **[Blockchain_Based_Play_To_Earn_Puzzle_Game (C++)](https://github.com/MuhammadKhuzaimaIqbal/Blockchain_Based_Play_To_Earn_Puzzle_Game)** – Puzzle game with blockchain-based token rewards       andsecure transaction handling.
+- **[Multithreaded_Client_Server (C++)](https://github.com/MuhammadKhuzaimaIqbal/Multithreaded_Client_Server)** – Client-Server file sharing model 
 
 ---
 
 ## 📫 Contact Me
 - Email: khuzaimaiqbal91@gmail.com  
 - LinkedIn: [linkedin.com/in/muhammad-khuzaima-iqbal](https://linkedin.com/in/muhammad-khuzaima-iqbal)  
-- GitHub: [github.com/KhuzaimaIqbal123](https://github.com/KhuzaimaIqbal123)
+- GitHub: [github.com/KhuzaimaIqbal123](https://github.com/MuhammadKhuzaimaIqbal)
