@@ -1,5 +1,5 @@
 # Muhammad Khuzaima
-**BS Computer Science | Full-Stack & AI Developer | MERN Stack Enthusiast**  
+**BS Computer Science | Full-Stack & AI Developer | MERN Stack Enthusiast | Software Engineer**  
 
 Hi there! I'm Muhammad Khuzaima, a passionate software developer who loves building web apps, AI solutions, and games. I’m currently in my **8th semester at ITU Lahore**, focused on enhancing my skills in full-stack development and AI projects.  
 
