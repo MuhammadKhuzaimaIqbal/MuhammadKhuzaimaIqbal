@@ -46,4 +46,4 @@ Hi there! I'm Muhammad Khuzaima, a passionate software developer who loves build
 ## 📫 Contact Me
 - Email: khuzaimaiqbal91@gmail.com  
 - LinkedIn: [linkedin.com/in/muhammad-khuzaima-iqbal](https://linkedin.com/in/muhammad-khuzaima-iqbal)  
-- GitHub: [Instagram.com/khuzaima.iqbal123](https://www.instagram.com/khuzaima.iqbal123/)
+- Instagram: [Instagram.com/khuzaima.iqbal123](https://www.instagram.com/khuzaima.iqbal123/)
