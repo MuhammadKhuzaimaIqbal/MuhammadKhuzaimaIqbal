@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="Khuzaima.png" alt="Muhammad Khuzaima">
+  <img width="150" src="Khuzaima .png" alt="Muhammad Khuzaima">
 </p>
 
 <h1 align="center">Muhammad Khuzaima</h1>
