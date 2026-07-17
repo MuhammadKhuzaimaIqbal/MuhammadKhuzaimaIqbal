@@ -55,14 +55,12 @@ Worked with:
 **AI/ML Engineering Intern**
   **HOF Global | July 2026 - Present**
 
-Working on a production CRM with:
+Working on:
 
 • Next.js
 • TypeScript
 • Supabase
 • Redis
-• Twilio
-• Google OAuth
 
 ---
 
