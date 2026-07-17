@@ -20,9 +20,6 @@ I have completed a **Full-Stack AI Internship at Thryve Tech** and I'm currently
 
 I enjoy solving real-world engineering problems, designing efficient architectures, and continuously learning emerging technologies in **AI, LLMs, and cloud-native applications**.
  
-
----
-
 - AI/ML Engineer with industry experience
 - Full-Stack Developer specializing in scalable web applications
 - Strong backend development using Node.js and Python
