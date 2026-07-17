@@ -2,7 +2,7 @@
   <img width="150" src="Khuzaima .png" alt="Muhammad Khuzaima">
 </p>
 
-<h1 align="center">Hi there, I'm Muhammad Khuzaima </h1>
+<h1 align="center">Hi, I'm Muhammad Khuzaima </h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Engineer | CS Graduate @ ITU Lahore</h3>
 
 <p align="center">
