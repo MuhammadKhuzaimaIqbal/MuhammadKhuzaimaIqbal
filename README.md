@@ -2,9 +2,9 @@
   <img width="150" src="Khuzaima .png" alt="Muhammad Khuzaima">
 </p>
 
-<h1 align="center">Muhammad Khuzaima</h1>
-<h3 align="center">Full Stack Developer (MERN Stack) | AI & Game Dev Enthusiast</h3>
-<p align="center">"Building Scalable and Innovative Web Applications with Passion"</p>
+<h1 align="center">Hi there, I'm Muhammad Khuzaima 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Engineer</h3>
+<p align="center">"Building scalable software and intelligent systems that solve real-world problems."</p>
 
 <p align="center">
   <b>Email:</b> khuzaimaiqbal91@gmail.com &nbsp;|&nbsp;
@@ -12,30 +12,75 @@
 </p>
 
 # Muhammad Khuzaima
-**BS Computer Science | Full-Stack & AI Developer | MERN Stack Enthusiast | Software Engineer**  
+**Full-Stack Developer | AI/ML Engineer | Backend Engineer | CS Graduate @ ITU Lahore**  
 
-Hi there! I'm Muhammad Khuzaima, a passionate software developer who loves building web apps, AI solutions, and games. I’m currently in my **8th semester at ITU Lahore**, focused on enhancing my skills in full-stack development and AI projects.  
+Hi! I'm Muhammad Khuzaima, a recent Computer Science graduate from **Information Technology University (ITU) Lahore** and a Software Engineer passionate about **AI, backend development, and modern full-stack applications**.
 
----
+I have completed a **Full-Stack AI Internship at Thryve Tech** and I'm currently working as an **AI/ML Engineering Intern**, where I build scalable software solutions and explore AI-driven systems.
 
-## 👨🏻‍🎓 About Me
-- Full-stack developer with hands-on experience in **MERN Stack**, **ASP.NET**, **Firebase**, and **MySQL/MongoDB**  
-- AI & image processing projects using **Python**, **OpenCV**, and **C++**  
-- Strong problem-solving, teamwork, and project management skills  
-- Always learning and exploring new technologies  
+I enjoy solving real-world engineering problems, designing efficient architectures, and continuously learning emerging technologies in **AI, LLMs, and cloud-native applications**.
+ 
 
 ---
 
-## 🔧 Tech Stack
-**Frontend:** React, HTML, CSS, Bootstrap  
-**Backend:** Node.js, Express.js, ASP.NET Core, C#  
-**Databases:** MongoDB, MySQL, Firebase  
-**Languages:** Python, C++, C#, JavaScript  
-**Tools & Others:** Git, Docker, VS Code, Unity  
+## 🚀 About Me
+
+- AI/ML Engineer with industry experience
+- Full-Stack Developer specializing in scalable web applications
+- Strong backend development using Node.js and Python
+- Passionate about AI, LLMs, and intelligent systems
+- Experienced in authentication, APIs, databases, and cloud services
+- Love learning new technologies and building production-ready software
 
 ---
 
-## 📂 Projects
+💼 Experience
+
+**Full Stack AI Intern**
+  **Thryve Tech | Feb 2026 - May 2026** 
+
+Worked with:
+
+• FastAPI
+• Django
+• JWT
+• RBAC
+• Stripe
+• Docker
+• PostgreSQL
+
+**AI/ML Engineering Intern**
+  **HOF Global | July 2026 - Present**
+
+Working on a production CRM with:
+
+• Next.js
+• TypeScript
+• Supabase
+• Redis
+• Twilio
+• Google OAuth
+
+---
+
+🏆 Achievements
+
+  First Place Spark Up Innovation Summit ITU 2026  **RecitAI (FYP)**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**     : Python, TypeScript, JavaScript, SQL, C, C++ ,C#, 
+**Frontend**      : React,  Next.js,  HTML, CSS, Bootstrap
+**Backend**       : Node.js, Express.js, FastAPI, Django, Flask, REST APIs, WebSockets
+**Databases**     : PostgreSQL, MongoDB, MySQL, Supabase, Firebase
+**AI & ML**       : PyTorch, OpenCV, Hugging Face, Whisper,Supabase Vector
+**Cloud & Tools** : Git, Docker, Redis, Upstash, Google OAuth, Stripe, Linux
+
+---
+
+## ⭐ Featured Projects
 - **[Airbnb Clone (MERN)](https://github.com/MuhammadKhuzaimaIqbal/Dockerize_Airbnb_MERN)** – Full-featured rental platform with authentication & booking system  
 - **[Time-Aware Image Classifier (Python & OpenCV)](https://github.com/MuhammadKhuzaimaIqbal/Day_vs_Night_Classifier)** – AI project for image classification  
 - **[Blockchain_Based_Play_To_Earn_Puzzle_Game (C++)](https://github.com/MuhammadKhuzaimaIqbal/Blockchain_Based_Play_To_Earn_Puzzle_Game)** – Puzzle game with blockchain-based token rewards       andsecure transaction handling.
@@ -43,7 +88,7 @@ Hi there! I'm Muhammad Khuzaima, a passionate software developer who loves build
 
 ---
 
-## 📫 Contact Me
-- Email: khuzaimaiqbal91@gmail.com  
-- LinkedIn: [linkedin.com/in/muhammad-khuzaima-iqbal](https://linkedin.com/in/muhammad-khuzaima-iqbal)  
-- Instagram: [Instagram.com/khuzaima.iqbal123](https://www.instagram.com/khuzaima.iqbal123/)
+## 📫 Connect With Me
+- Phone :    03247142905  
+- Email :    khuzaimaiqbal91@gmail.com  
+- LinkedIn:  [linkedin.com/in/muhammad-khuzaima-iqbal](https://linkedin.com/in/muhammad-khuzaima-iqbal)  
