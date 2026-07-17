@@ -2,7 +2,7 @@
   <img width="150" src="Khuzaima .png" alt="Muhammad Khuzaima">
 </p>
 
-<h1 align="center">Hi there, I'm Muhammad Khuzaima 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Khuzaima </h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Engineer</h3>
 <p align="center">"Building scalable software and intelligent systems that solve real-world problems."</p>
 
@@ -25,7 +25,7 @@ I enjoy solving real-world engineering problems, designing efficient architectur
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - AI/ML Engineer with industry experience
 - Full-Stack Developer specializing in scalable web applications
@@ -36,7 +36,7 @@ I enjoy solving real-world engineering problems, designing efficient architectur
 
 ---
 
-💼 Experience
+## Experience
 
 **Full Stack AI Intern**
   **Thryve Tech | Feb 2026 - May 2026** 
@@ -65,13 +65,13 @@ Working on a production CRM with:
 
 ---
 
-🏆 Achievements
+## Achievements
 
   First Place Spark Up Innovation Summit ITU 2026  **RecitAI (FYP)**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**     : Python, TypeScript, JavaScript, SQL, C, C++ ,C#, 
 **Frontend**      : React,  Next.js,  HTML, CSS, Bootstrap
@@ -82,7 +82,8 @@ Working on a production CRM with:
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
+
 - **[Airbnb Clone (MERN)](https://github.com/MuhammadKhuzaimaIqbal/Dockerize_Airbnb_MERN)** – Full-featured rental platform with authentication & booking system  
 - **[Time-Aware Image Classifier (Python & OpenCV)](https://github.com/MuhammadKhuzaimaIqbal/Day_vs_Night_Classifier)** – AI project for image classification  
 - **[Blockchain_Based_Play_To_Earn_Puzzle_Game (C++)](https://github.com/MuhammadKhuzaimaIqbal/Blockchain_Based_Play_To_Earn_Puzzle_Game)** – Puzzle game with blockchain-based token rewards       andsecure transaction handling.
@@ -90,7 +91,8 @@ Working on a production CRM with:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
+
 - Phone :    03247142905  
 - Email :    khuzaimaiqbal91@gmail.com  
 - LinkedIn:  [linkedin.com/in/muhammad-khuzaima-iqbal](https://linkedin.com/in/muhammad-khuzaima-iqbal)  
