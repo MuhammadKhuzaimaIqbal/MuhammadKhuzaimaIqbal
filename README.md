@@ -2,8 +2,8 @@
   <img width="150" src="Khuzaima .png" alt="Muhammad Khuzaima">
 </p>
 
-<h1 align="center">Hi there, I'm Muhammad Khuzaima </h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Engineer</h3>
+<h1 align="center">Hi there, I'm **Muhammad Khuzaima** </h1>
+<h3 align="center">**Software Engineer | Full-Stack Developer | AI/ML Engineer | CS Graduate @ ITU Lahore**</h3>
 
 <p align="center">
   <b>WhatsApp:</b> <a href="https://wa.me/923247142905">Chat</a> &nbsp;|&nbsp;
@@ -11,8 +11,7 @@
   <b>LinkedIn:</b> <a href="https://linkedin.com/in/muhammad-khuzaima-iqbal">Profile</a> &nbsp;
 </p>
 
-
-**Full-Stack Developer | AI/ML Engineer | Backend Engineer | CS Graduate @ ITU Lahore**  
+##
 
 Hi! I'm Muhammad Khuzaima, a recent Computer Science graduate from **Information Technology University (ITU) Lahore** and a Software Engineer passionate about **AI, backend development, and modern full-stack applications**.
 
