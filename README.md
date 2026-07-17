@@ -12,7 +12,6 @@
 </p>
 
 
-# Muhammad Khuzaima
 **Full-Stack Developer | AI/ML Engineer | Backend Engineer | CS Graduate @ ITU Lahore**  
 
 Hi! I'm Muhammad Khuzaima, a recent Computer Science graduate from **Information Technology University (ITU) Lahore** and a Software Engineer passionate about **AI, backend development, and modern full-stack applications**.
