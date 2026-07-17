@@ -72,7 +72,6 @@ Working on:
 
 ## Tech Stack
 
-<br>
 
 **Languages**     : Python, TypeScript, JavaScript, SQL, C, C++ ,C#, 
 <br>
