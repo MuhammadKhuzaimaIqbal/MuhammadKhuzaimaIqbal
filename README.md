@@ -7,8 +7,8 @@
 <p align="center">"Building scalable software and intelligent systems that solve real-world problems."</p>
 
 <p align="center">
-  <b>Phone:</b> 03247142905 &nbsp;|&nbsp;
-  <b>Email:</b> khuzaimaiqbal91@gmail.com &nbsp;|&nbsp;
+  <b>Phone:</b> <a href="tel:+923247142905">03247142905</a> &nbsp;|&nbsp;
+  <b>Email:</b> <a href="mailto:khuzaimaiqbal91@gmail.com">khuzaimaiqbal91@gmail.com</a> &nbsp;|&nbsp;
   <b>LinkedIn:</b> <a href="https://linkedin.com/in/muhammad-khuzaima-iqbal">Profile</a> &nbsp;
 </p>
 
