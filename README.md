@@ -76,6 +76,7 @@ Working on:
 
 ## Featured Projects
 
+- **[PawSure – AI-Powered Dog Marketplace](https://pawsure.ca/)** – Developed production-ready backend APIs and business logic for a live AI-powered marketplace using FastAPI, Python, and REST APIs. Collaborated with the development team to build and maintain scalable features.
 - **[Airbnb Clone (MERN)](https://github.com/MuhammadKhuzaimaIqbal/Dockerize_Airbnb_MERN)** – Full-featured rental platform with authentication & booking system  
 - **[Time-Aware Image Classifier (Python & OpenCV)](https://github.com/MuhammadKhuzaimaIqbal/Day_vs_Night_Classifier)** – AI project for image classification  
 - **[Blockchain_Based_Play_To_Earn_Puzzle_Game (C++)](https://github.com/MuhammadKhuzaimaIqbal/Blockchain_Based_Play_To_Earn_Puzzle_Game)** – Puzzle game with blockchain-based token rewards       andsecure transaction handling.
