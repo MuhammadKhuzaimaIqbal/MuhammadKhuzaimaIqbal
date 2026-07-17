@@ -99,6 +99,6 @@ Working on:
 
 ## Connect With Me
 
-- Phone: <a href="tel:+923247142905">03247142905</a> &nbsp;;
+- Phone :</b> <a href="https://wa.me/923247142905"> +923247142905</a> &nbsp;
 - Email :    khuzaimaiqbal91@gmail.com  
 - LinkedIn:  [linkedin.com/in/muhammad-khuzaima-iqbal](https://linkedin.com/in/muhammad-khuzaima-iqbal)  
