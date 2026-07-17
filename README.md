@@ -76,6 +76,7 @@ Working on:
 
 ## Featured Projects
 
+- **[HOF Pack CRM](https://hof-pack-crm-production.up.railway.app/)** – A production CRM platform built for HOF Pack to streamline business operations and customer management. Contributing to full-stack development using Next.js, TypeScript, Supabase, Redis, and modern web technologies.
 - **[PawSure – AI-Powered Dog Marketplace](https://pawsure.ca/)** – Developed production-ready backend APIs and business logic for a live AI-powered marketplace using FastAPI, Python, and REST APIs. Collaborated with the development team to build and maintain scalable features.
 - **[Airbnb Clone (MERN)](https://github.com/MuhammadKhuzaimaIqbal/Dockerize_Airbnb_MERN)** – Full-featured rental platform with authentication & booking system  
 - **[Time-Aware Image Classifier (Python & OpenCV)](https://github.com/MuhammadKhuzaimaIqbal/Day_vs_Night_Classifier)** – AI project for image classification  
