@@ -9,7 +9,7 @@
 <p align="center">
   <b>Phone:</b> 03247142905 &nbsp;|&nbsp;
   <b>Email:</b> khuzaimaiqbal91@gmail.com &nbsp;|&nbsp;
-  <b>LinkedIn:</b> <a href="https://linkedin.com/in/muhammad-khuzaima-iqbal">Profile</a> &nbsp;|&nbsp;
+  <b>LinkedIn:</b> <a href="https://linkedin.com/in/muhammad-khuzaima-iqbal">Profile</a> &nbsp;
 </p>
 
 
