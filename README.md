@@ -18,7 +18,7 @@
 
 Hi! I'm Muhammad Khuzaima, a recent Computer Science graduate from **Information Technology University (ITU) Lahore** and a Software Engineer passionate about **AI, backend development, and modern full-stack applications**.
 
-I have completed a **Full-Stack AI Internship at Thryve Tech** and I'm currently working as an **AI/ML Engineering Intern**, where I build scalable software solutions and explore AI-driven systems.
+I have completed a **Full-Stack AI Internship at Thryve Tech** and I'm currently working as an **AI/ML Engineering Intern at HOF Global**, where I build scalable software solutions and explore AI-driven systems.
 
 I enjoy solving real-world engineering problems, designing efficient architectures, and continuously learning emerging technologies in **AI, LLMs, and cloud-native applications**.
  
