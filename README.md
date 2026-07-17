@@ -10,8 +10,7 @@
   <b>Email:</b> <a href="mailto:khuzaimaiqbal91@gmail.com">khuzaimaiqbal91@gmail.com</a> &nbsp;|&nbsp;
   <b>LinkedIn:</b> <a href="https://linkedin.com/in/muhammad-khuzaima-iqbal">Profile</a> &nbsp;
 </p>
-
----
+<br>
 
 ## About Me
 
