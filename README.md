@@ -12,7 +12,7 @@
 </p>
 
 
-About Me
+## About Me
 
 I am recent Computer Science graduate from **Information Technology University (ITU) Lahore** and a Software Engineer passionate about **AI, backend development, and modern full-stack applications**.
 
