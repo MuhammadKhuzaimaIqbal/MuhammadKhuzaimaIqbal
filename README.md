@@ -11,6 +11,7 @@
   <b>LinkedIn:</b> <a href="https://linkedin.com/in/muhammad-khuzaima-iqbal">Profile</a> &nbsp;
 </p>
 
+---
 
 ## About Me
 
