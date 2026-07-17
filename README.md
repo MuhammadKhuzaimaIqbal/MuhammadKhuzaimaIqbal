@@ -1,4 +1,4 @@
-<p align="center"> <img width="150" src="Khuzaima_.png" alt="Muhammad Khuzaima"> </p>
+<p align="center"> <img width="250" src="Khuzaima_.png" alt="Muhammad Khuzaima"> </p>
 
 <h1 align="center">Hi, I'm Muhammad Khuzaima </h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Engineer | CS Graduate @ ITU Lahore</h3>
