@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi there, I'm Muhammad Khuzaima </h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Engineer</h3>
-<p align="center">"Building scalable software and intelligent systems that solve real-world problems."</p>
 
 <p align="center">
   <b>WhatsApp:</b> <a href="https://wa.me/923247142905">Chat</a> &nbsp;|&nbsp;
