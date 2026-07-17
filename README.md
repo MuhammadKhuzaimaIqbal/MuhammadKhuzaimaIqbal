@@ -73,17 +73,17 @@ Working on:
 ## Tech Stack
 
 
-**Languages**     : Python, TypeScript, JavaScript, SQL, C, C++ ,C#, 
+**Languages**     :  Python, TypeScript, JavaScript, SQL, C, C++ ,C#, 
 <br>
-**Frontend**      : React,  Next.js,  HTML, CSS, Bootstrap
+**Frontend**      :  React,  Next.js,  HTML, CSS, Bootstrap
 <br>
-**Backend**       : Node.js, Express.js, FastAPI, Django, Flask, REST APIs, WebSockets
+**Backend**       :  Node.js, Express.js, FastAPI, Django, Flask, REST APIs, WebSockets
 <br>
-**Databases**     : PostgreSQL, MongoDB, MySQL, Supabase, Firebase
+**Databases**     :  PostgreSQL, MongoDB, MySQL, Supabase, Firebase
 <br>
-**AI & ML**       : PyTorch, OpenCV, Hugging Face, Whisper,Supabase Vector
+**AI & ML**       :  PyTorch, OpenCV, Hugging Face, Whisper,Supabase Vector
 <br>
-**Cloud & Tools** : Git, Docker, Redis, Upstash, Google OAuth, Stripe, Linux
+**Cloud & Tools** :  Git, Docker, Redis, Upstash, Google OAuth, Stripe, Linux
 
 ---
 
