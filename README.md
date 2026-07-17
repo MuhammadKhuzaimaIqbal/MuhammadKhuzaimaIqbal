@@ -50,6 +50,8 @@ Worked with:
 • Docker
 • PostgreSQL
 
+<br>
+
 **AI/ML Engineering Intern**
   **HOF Global | July 2026 - Present**
 
