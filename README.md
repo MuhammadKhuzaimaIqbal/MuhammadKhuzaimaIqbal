@@ -99,6 +99,6 @@ Working on:
 
 ## Connect With Me
 
-- Phone :    03247142905  
+- Phone: [+92 324 7142905](tel:+923247142905) &nbsp;|&nbsp;
 - Email :    khuzaimaiqbal91@gmail.com  
 - LinkedIn:  [linkedin.com/in/muhammad-khuzaima-iqbal](https://linkedin.com/in/muhammad-khuzaima-iqbal)  
